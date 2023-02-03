@@ -1,5 +1,5 @@
 {
-  "name": "weather-cli",
+  "name": "@okluk/get_weather-cli",
   "version": "1.0.0",
   "description": "Small weather CLI app",
   "main": "weather.js",
@@ -15,6 +15,9 @@
     "cli"
   ],
   "author": "Andrii Petlovanyi",
+  "bugs": {
+    "email": "andrey.petlovany@icloud.com"
+  },
   "license": "ISC",
   "dependencies": {
     "axios": "^1.3.1",
