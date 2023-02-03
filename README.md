@@ -1,6 +1,6 @@
 # get_weather-CLI
 Small Node.js CLI app for receiving the current weather forecast in your city.
-For weather API used [OpenWeather](https://openweathermap.org, "OpenWeather site")!
+For weather API used [OpenWeather](https://openweathermap.org "OpenWeather site")!
 
 If you want try this CLI app, you can used this token: ***e58223364b60aaec200d4efc7263e9e5***
 
