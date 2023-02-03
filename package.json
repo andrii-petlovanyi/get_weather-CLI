@@ -1,19 +1,23 @@
 {
-  "name": "@okluk/get_weather-cli",
-  "version": "1.0.0",
+  "name": "okluk_weather-cli",
+  "version": "0.0.1",
   "description": "Small weather CLI app",
   "main": "weather.js",
   "bin": {
-    "weather": "weather.js"
+    "weather": "./weather.js"
   },
   "type": "module",
   "scripts": {
+    "start": "node weather.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "weather",
     "cli"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Andrii Petlovanyi",
   "bugs": {
     "email": "andrey.petlovany@icloud.com"
